@@ -10,7 +10,7 @@ I need 15 posts - also ask when the study is gonna be published?
 
 
 1. The importance of communication (discussing the communication issues around the pilot)
-2. Preparing for user feedback and crashes? (discuss the issues with tracking the app)
+2. Preparing for user feedback and crashes? (discuss the issues with tracking the app) (Thinking as a User)
 3. Learning to run python on a mobile app 
 4. How I overcame my struggles with the Apple Weatherkit API  
 5. The importance of listening to the customer (Meeting with Goldfields)
@@ -22,5 +22,5 @@ I need 15 posts - also ask when the study is gonna be published?
 11. Building a data pipeline for CSV data 
 12. How to think Outside the Box (Hackathon Post)
 13. Managing & Releasing Beta Apps on Testflight 
-14. Why building a strong team is importantr
+14. Why building a strong team is important (Learning my best workstyle)
 15. Skills Development + Supervisor Report
