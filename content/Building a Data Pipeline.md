@@ -1,5 +1,5 @@
 ---
-title: Running Python on Mobile Devices
+title: Building A Data Pipeline
 draft: true
 tags:
   - technical

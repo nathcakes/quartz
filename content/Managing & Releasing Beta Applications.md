@@ -1,6 +1,6 @@
 ---
 title: Managing & Releasing Beta Applications
-draft: true
+draft: false
 tags:
   - technical
 date: 2024-06-24
