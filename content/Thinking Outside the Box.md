@@ -13,8 +13,11 @@ My concerns were disproved from the first day; everyone desired success, acted d
 
 Before this weekend, I was very hesitant to attend and had thought about pulling out just the day before it was scheduled to start. I knew I couldn't let my team down, and I'm very glad that I gave the weekend everything I could. It greatly improved my ability to work as part of a team and my communication skills. The post I made about the event on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221810592574058497/) got much more interaction than anticipated, improving my confidence and desire to post on LinkedIn. I thoroughly enjoyed presenting our team idea and would love to incorporate speaking roles in my future career.
 
-*Artefact: The slides our team created are available [here](https://www.figma.com/slides/8by617ZDibVQE9uoFZu5Cl/Terraforming-WA?t=Fqh4yuMQ0sd03cMI-1)*
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/8by617ZDibVQE9uoFZu5Cl/Terraforming-WA?node-id=1-34&embed-host=share" allowfullscreen></iframe>
+<p style="text-align: center; font-style: italic;">
+Artefact: The slides our team created are available <a href="https://www.figma.com/slides/8by617ZDibVQE9uoFZu5Cl/Terraforming-WA?t=Fqh4yuMQ0sd03cMI-1">here</a></p> 
 
-|                    ![[team_hackathon_photo.jpeg]]                    |
-| :------------------------------------------------------------------: |
-| *Artefact\: An image of our team after winning the ComSSA Hackathon* |
+</br> 
+
+![[team_hackathon_photo.jpeg]]
+<p style="text-align: center; font-style: italic;">Artefact: An image of our team after winning the ComSSA Hackathon</p> 
