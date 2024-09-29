@@ -11,10 +11,8 @@ const config: QuartzConfig = {
     pageTitle: "Nathanial Brown's NPSC Portfolio",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
+    analytics: null,
+    locale: "en-GB",
     baseUrl: "npsc.nateb.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

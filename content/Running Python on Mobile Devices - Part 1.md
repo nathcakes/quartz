@@ -5,7 +5,7 @@ tags:
   - technical
 date: 2024-06-24
 ---
- I initially wrote this reflection as one very long piece, but I believe there is a natural break in the two segments, with different skills developed. Therefore, I have split them into two reflections. 
+ I initially wrote this reflection as one very long piece, but there is a natural break in the two segments, with different skills developed. Therefore, I have split them into two reflections. 
  
  One of the customer pilot's largest technical challenges was providing users with hydration, fatigue and heat stress scores while offline. This is difficult as it requires running machine learning (ML) models frequently on devices with restricted battery life and processing power, compared to hosting the models on an online server and returning the results to the user over the internet. 
 
@@ -14,7 +14,7 @@ The initial version of the ML models was created using a popular Python package,
 After a week of development from our Data Science team, I was supplied with the models to run on the device. I successfully ran the models on a sample input and provided an example of the basic code with annotations to run a TensorFlow model in Flutter.
 
 
-```Dart title="Tensorflow Lite Example"
+```dart title="Tensorflow Lite Example"
 import 'package:tflite_flutter/tflite_flutter.dart' as tfl;
 
 Future<List<String>> tensorFlowExample() async {
@@ -48,7 +48,6 @@ Future<List<String>> tensorFlowExample() async {
 ``` 
 <p style="text-align: center; font-style: italic;">
 Artefact: Adapted code from our repo to run TensorFlow models in Dart</p>  
-</br>
 
 However, I didn't realise then that success was further away than it appeared. Although we could easily run the models on the device, a crucial step in the ML pipeline is to pre-process the data to transform it from raw values into a structure that can be input into the model. The team had written this code in Python and used many Python-specific packages; as a solo developer, it was impossible to translate this pre-processing step before the deadline. 
 
