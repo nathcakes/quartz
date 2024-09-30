@@ -1,7 +1,8 @@
 ---
 title: Reverting Back to Flutter
 draft: false
-tags: 
+tags:
+  - technical
 date: 2024-08-26
 ---
 On 23 August we had a planning session to determine deadlines and scope out the work that needs to be done until the end of the year. Given the deadline for my NPSC project and even with the extended deadline for the customer of 1 November, I believe I could not deliver a product that I'm happy with in time. 

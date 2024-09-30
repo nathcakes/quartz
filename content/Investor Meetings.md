@@ -2,8 +2,8 @@
 title: Investor Meetings
 draft: false
 tags:
-  - technical
-  - planning
+  - communication
+  - entrepreneur
 date: 2024-08-05
 ---
 This week, Zac & Will invited me to join a meeting with their main investor, which I accepted as an exciting insight into the "behind the scenes" of the business. I've always been curious about creating my own company, but the funding and business strategy aspect is what scares me the most, so this was an excellent opportunity to challenge those fears. 

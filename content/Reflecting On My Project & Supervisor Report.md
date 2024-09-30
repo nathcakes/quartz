@@ -3,6 +3,7 @@ title: Reflecting On My Project & Supervisor Report
 draft: false
 tags:
   - technical
+  - skills-development
 date: 2024-09-27
 ---
 It's finally approaching the end of the year; I'm finalising my portfolio and have begun working on my end-of-year report. It doesn't feel like the end as there's still work to be done for Omni and delivering our application to the customer in the coming months, but it does feel like a great time to review my learnings this year and highlight my successes. 
