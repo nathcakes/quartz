@@ -1,6 +1,6 @@
 ---
 title: Communication Troubles & Learnings
-draft: true
+draft: false
 tags:
   - teamwork
   - communication
